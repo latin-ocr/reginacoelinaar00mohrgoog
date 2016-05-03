@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reginacoelinaar00mohrgoog_0052.png"; bbox 0 0 981 1510; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 177 325 177 350">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 177 325 177 350">
+     <span class='ocr_line' id='line_1_1' title="bbox 177 325 177 350; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 177 325 177 350; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 332 678 332">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 137 332 678 332">
+     <span class='ocr_line' id='line_1_2' title="bbox 137 332 678 332; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 137 332 678 332; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 255 243 800 307">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 255 243 788 307">
+     <span class='ocr_line' id='line_1_3' title="bbox 758 283 788 295; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 758 283 788 295; x_wconf 67' lang='grc' dir='ltr'>ξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 255 243 800 307; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 764 261 800 272; x_wconf 63' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 255 243 741 307; x_wconf 59' lang='lat' dir='ltr'>ffl&#39;fflflffl-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 97 96 921 1441">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 97 96 921 1441">
+     <span class='ocr_line' id='line_1_5' title="bbox 97 96 921 1441; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 97 96 921 1441; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
